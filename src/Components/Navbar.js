@@ -12,7 +12,7 @@ function Navbar () {
         <div className="container">
             <div className="row col-12">
                 <div className="col-6">
-                    <a className="navbar-brand font-weight-bold bg-info bg-gradient p-2 text-light" href="#">Shahla Aliyeva</a>
+                    <a className="navbar-brand font-weight-bold bg-info bg-gradient p-2 text-light" href="https://github.com/ShahlaAliyeva" target={"_blank"}>Shahla Aliyeva</a>
                 </div>
                 <div className="col-6">
                     <div className="collapse navbar-collapse" id="navbarSupportedContent">
