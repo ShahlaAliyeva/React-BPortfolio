@@ -9,7 +9,7 @@ function Contact () {
         <div className="container my-5">
         <div className="row  justify-content-center">
             <div className="col-7 p-3 bg-light rounded mb-4">
-                <h2 className="fs-3 h2 border-bottom text-info mb-3 pb-2">Contact</h2>
+                <h2 className="fs-3 h2 border-bottom mb-3 pb-2">Contact</h2>
                 <form action="#" className="text-secondary">
                     <label for="name" className="mb-2 mt-2" id="name">Name</label>
                     <input type="text" className="form-control" id="name" placeholder="John Smith" required/>
@@ -24,7 +24,7 @@ function Contact () {
                 </form>
             </div>
             <div id="connect" className="col-3 mx-auto h-50 bg-light rounded p-3">
-                <h2 className="fs-3 h2 border-bottom text-info mb-3 pb-2">Connect with me</h2>
+                <h2 className="fs-3 h2 border-bottom mb-3 pb-2">Connect with me</h2>
                 <div className="row">
                   <div className="col-4">
                     <a href="https://github.com/ShahlaAliyeva" target="blank_"><img className="img-fluid" src={require("./images/github-128.png")} alt=""/></a>

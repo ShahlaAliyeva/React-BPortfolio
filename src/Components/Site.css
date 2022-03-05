@@ -13,3 +13,20 @@ p {
     left: 0;
     bottom: .8em;
 }
+
+nav{
+    background-color: #085467;
+}
+
+.navbar-light .navbar-nav .nav-link{
+    color: rgba(255,255,255,.6);
+}
+
+h2 {
+    color: rgba(8, 84, 103, .8);
+}
+
+.img-bck {
+    background-color: rgba(8, 84, 103, .9);;
+}
+
